@@ -1,0 +1,10 @@
+[style]
+based_on_style = pep8
+blank_line_before_nested_class_or_def = true
+dedent_closing_brackets = true
+indent_width = 4
+space_between_ending_comma_and_closing_bracket = false
+indent_dictionary_value = true
+join_multiple_lines = false
+split_before_bitwise_operator = false
+split_before_logical_operator = false
