@@ -1,6 +1,8 @@
 adi.keymaker
 ============
 
+[![Circle CI](https://circleci.com/gh/advancedigital/adi.keymaker.svg?style=svg)](https://circleci.com/gh/advancedigital/adi.keymaker)
+
 ### Installation
 
 #### pip

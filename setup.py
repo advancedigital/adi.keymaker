@@ -2,7 +2,7 @@ import os
 from setuptools import setup, find_packages
 
 setup(name="adi.keymaker",
-      version="0.15.46",
+      version="0.15.50",
       author="Advance Services",
       author_email="services@lists.advance.net",
       url='http://pypi.advance.net/packages/adi.keymaker',
